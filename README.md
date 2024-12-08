@@ -2,12 +2,17 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alangriebler/)
 
+
 ## Formação
 
 - Pós Graduação Data Warehouse e Business Intelligence - UNIVALI (Em Andamento)
 - Especialização Back-end - ALURA (2023)
 - Iniciante em programação - ALURA (2023)
 - Bacharel Administração UNISUL (2021)
+
+## Sobre Mim
+
+Tenho grande interesse em tecnologia, análise de dados e Data Warehouse. Acredito no poder dos dados para impulsionar decisões estratégicas e me dedico a aprender e aplicar soluções que conectem informações a resultados.
 
 
 ## Tecnologias que eu uso
